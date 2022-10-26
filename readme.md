@@ -20,7 +20,7 @@ and **Django-rest-framework** is also used.
 
 Creating a virtual environment:
 
-    python -m venv <foldername<>>
+    python -m venv <foldername>
 
 Then we installed the modules used using **pip** command
 
